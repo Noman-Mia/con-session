@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500&display=swap');
+*{
+  margin: 0px;
+  padding: 0%;
+  font-family: 'Nunito Sans', sans-serif;
+}
+.Cow{
+  background-image: url('../images/cow.jpg');
+  height:100vh;
+  width:100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  word-spacing:10px;
+  letter-spacing: 10px;
+  
+}
+
+.Cow h2{
+    color: rgb(211, 236, 211);
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: inherit;
+    text-align: center ;
+    padding-top: 50px;
+
+}
+
+.artical{
+  margin: 80px 60px;
+  border: 20px solid yellow ;
+  padding: 20px;
+ background: #04de62;
+
+}
+.artical h1{
+  text-align: center;
+  padding: 20px;
+ 
+}
+.artical p{
+  line-height: 2rem;
+  font-size: 20px;
+}
