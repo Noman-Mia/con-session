@@ -28,7 +28,7 @@
 }
 
 .artical{
-  margin: 80px 60px;
+  margin: 30px 60px;
   border: 20px solid yellow ;
   padding: 20px;
  background: #04de62;
@@ -42,4 +42,29 @@
 .artical p{
   line-height: 2rem;
   font-size: 20px;
+}
+.frm{ 
+  text-align: center;
+  padding: 40px 0px;
+
+}
+.frm input{
+  padding:px;
+  margin: 10px;
+  width: 25%;
+  height: 28px;
+  border-radius: 10px;
+  padding-left: 4px;
+}
+.frm h1{
+  margin-top: 20px;
+  color:#316FF6;
+}
+.frm button{
+ width: 90px;
+ height: 30px;
+background: #316FF6;
+font-size: 20px;
+margin-top: 20px;
+border-radius: 3px;
 }
